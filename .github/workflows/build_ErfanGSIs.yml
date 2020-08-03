@@ -3,9 +3,9 @@ name: GSI Build
 on: [push]
 
 env:
-  ROM_URL: http://otafsc1.h2os.com/patch/CHN/OnePlus6Hydrogen/OnePlus6Hydrogen_22.K.45_045_2007191519/OnePlus6Hydrogen_22_OTA_045_all_2007191519_734ede.zip
-  ROM_NAME: OxygenOS:HydrogenOS
-  ZIP_NAME: HydrogenOS
+  ROM_URL: http://bigota.d.miui.com/9.8.22/miui_CEPHEUS_9.8.22_aa27670572_10.0.zip
+  ROM_NAME: miui12:mi9
+  ZIP_NAME: miui
   TZ: America/Sao_Paulo
   MIR: gof
 jobs:
